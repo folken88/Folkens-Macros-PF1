@@ -15,7 +15,9 @@
       "flags": {}
     }
   ],
-  "id": "Folkens-Macros-PF1",
+  "id": "folkens-macros-pf1",
+  	"manifest": "https://github.com/folken88/Folkens-Macros-PF1/blob/main/Folkens-Macros-PF1/module.json",
+	"download": "https://github.com/folken88/Folkens-Macros-PF1/blob/main/Folkens-Macros-PF1.zip",
   "compatibility": {
     "minimum": "10.0",
     "verified": "10"
