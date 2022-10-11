@@ -1,0 +1,37 @@
+
+{
+  "title": "Folkens PF1 Macros for the Blind",
+  "description": "Sharing data across worlds",
+  "url": "hhttps://youtu.be/NXyuPjM7e2E",
+  "version": "1.0",
+
+  "packs": [
+    {
+      "label": "Folken's PF1 Blind Macros",
+      "name": "folkenpf1blindmacros",
+      "path": "packs/macro.db",
+      "type": "Macro",
+      "private": false,
+      "flags": {}
+    }
+  ],
+  "id": "Folkens-Macros-PF1",
+  "compatibility": {
+    "minimum": "10.0",
+    "verified": "10"
+  },
+		"relationships": {
+    "requires": [
+      {
+        "id": "advanced-macros",
+        "type": "module",
+        "compatibility": {}
+	  }, 
+	  {
+        "id": "lib-wrapper",
+        "type": "module",
+        "compatibility": {}
+	  }
+	]
+		}
+}
