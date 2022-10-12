@@ -6,7 +6,6 @@
     {
       "name": "Folken"
     },
-    
   ],
   "version": "1.0",
   "packs": [
@@ -32,12 +31,12 @@
         "id": "advanced-macros",
         "type": "module",
         "compatibility": {}
-	  }, 
-	  {
+	    }, 
+	    {
         "id": "lib-wrapper",
         "type": "module",
         "compatibility": {}
-	  }
+	    }
 	]
 		}
 }
