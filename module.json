@@ -1,9 +1,14 @@
 {
+  "id": "folkens-macros-pf1",
   "title": "Folkens PF1 Macros for the Blind",
-  "description": "Sharing data across worlds",
-  "url": "hhttps://youtu.be/NXyuPjM7e2E",
+  "description": "text-activated macros useful to blind players, actor agnostic",
+  "authors": [
+    {
+      "name": "Folken"
+    },
+    
+  ],
   "version": "1.0",
-
   "packs": [
     {
       "label": "Folken's PF1 Blind Macros",
